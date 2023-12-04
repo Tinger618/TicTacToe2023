@@ -1,3 +1,6 @@
+# If downloading, use latest version if Pycharm and Python interpreter
+# Imports Zelle's graphics library to be used in the majority of this program, but also uses code from Python's built-in time
+# library
 from graphics import *
 
 
